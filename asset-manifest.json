@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/readbel/static/css/main.00209a90.css",
-    "main.js": "/readbel/static/js/main.8e2e1850.js",
+    "main.js": "/readbel/static/js/main.303558a2.js",
     "static/js/787.43f7d673.chunk.js": "/readbel/static/js/787.43f7d673.chunk.js",
     "static/media/paper.jpg": "/readbel/static/media/paper.067f4c2c0d8594aa5df1.jpg",
     "static/media/Якуб2.jpg": "/readbel/static/media/Якуб2.fd0def04aac51ec1da3e.jpg",
@@ -28,11 +28,11 @@
     "index.html": "/readbel/index.html",
     "static/media/getFetch.cjs": "/readbel/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.00209a90.css.map": "/readbel/static/css/main.00209a90.css.map",
-    "main.8e2e1850.js.map": "/readbel/static/js/main.8e2e1850.js.map",
+    "main.303558a2.js.map": "/readbel/static/js/main.303558a2.js.map",
     "787.43f7d673.chunk.js.map": "/readbel/static/js/787.43f7d673.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00209a90.css",
-    "static/js/main.8e2e1850.js"
+    "static/js/main.303558a2.js"
   ]
 }
