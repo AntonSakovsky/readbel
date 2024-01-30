@@ -23,7 +23,7 @@ export function Anton(){
                         {t("anton-descript")}
                     </p>
                     <p>Telegram: <a className="links" href="https://t.me/sa_ka_tosh" target="_blank">Sa-ka-tosh</a></p>
-                    <p>GitHub: <a className="links" href="https://github.com/AntonSakovsky" target="_blank">AntonSaky</a></p>
+                    <p>GitHub: <a className="links" href="https://github.com/AntonSakovsky" target="_blank">AntonSakovsky</a></p>
                 </div>
             </div>
             
